@@ -30,7 +30,7 @@ public class Repository {
     }
 
     public static void clear() {
-     Array .Splice(A.array.length);
+     Array .Splice(a.array.length);
     int [] a ={12,5,7,83,25};
 
     }
