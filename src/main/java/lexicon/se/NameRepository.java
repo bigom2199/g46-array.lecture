@@ -20,16 +20,15 @@ public class NameRepository {
 
         System.out.println(firstName);
 
+
     }
-
-
     public static boolean add(final String fullName) {
         String[] names = new String[4];
         if (names == null) ;
         names[0] = fullName;
         return true;
 
-        for (String name:names){
+        for (String name : names) {
 
         }
         if (fullName.equals(names)) ;
@@ -44,20 +43,23 @@ public class NameRepository {
         }
 
     }
-  public static boolean update (final String original,final String upDatedName){
-        if ( == null);
-
-        int index= -1;
-        boolean names= false;
-        for (i = 0;i< names.length; i++);
-    }
-}
-
 
     public static String[] findByFirstName(final String firstName) {
         String[] findFirstName = new String[3];
 
+    }
+    public static boolean update(final String original,final String upDateName){
+        if (upDateName == null);
+        return false;
+         int Index= -1;
+         boolean nameExists= false;
+         for (int i = 0 ;i < update.Lengt; i++);
+
+             int index=1;
+             return true;
+
+         }
+    }
 
     }
-}
 
